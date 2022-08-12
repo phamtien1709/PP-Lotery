@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lotery2</string>
+    <string name="common_hello">Hello, Titus!</string>
+    <string name="button_chat_now">Chat now</string>
+    <string name="button_send">Send</string>
+    <string name="button_xem_ngay">Xem Lô Ngay</string>
+    <string name="common_email">Email</string>
+    <string name="common_password">Password</string>
+</resources>
